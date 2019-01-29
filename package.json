@@ -1,0 +1,18 @@
+{
+  "name": "nodeonazure",
+  "version": "1.0.0",
+  "description": "This is a simple node js app using express to be hosted on azure.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Krishana",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.7.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
